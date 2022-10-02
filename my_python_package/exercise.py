@@ -25,4 +25,4 @@ if __name__ == "__main__":
     if total_sum == user_input:
         print("This is a perfect number -:")
     else:
-        print("zero talent")
+        print("Olodo")
